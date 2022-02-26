@@ -1,3 +1,0 @@
-Add two columns Speed_High_Low and HP_High_Low in the same dataset as we worked in class.
-Dataset Link:
-https://www.kaggle.com/abcsds/pokemon
